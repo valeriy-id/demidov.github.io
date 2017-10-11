@@ -1,0 +1,32 @@
+.line {
+  border: solid 0.1rem #cbcdce;
+  width: 135px;
+}
+h1 {
+  color: #0bbaf0;
+  text-transform: uppercase;
+  font-size: 2.4rem;
+  text-align: center;
+  margin-top: 10%;
+  line-height: 1.5;
+}
+strong {
+  font-size: 3.6rem;
+}
+body {
+  background: url(../img/bg.jpg) center center repeat;
+}
+.panel-default > .panel-heading {
+  background-color: #0bbaf0;
+  color: white;
+  weight: 50px;
+}
+.panel {
+  margin: 0 auto;
+  margin-top: 5rem;
+  width: 60%;
+}
+.line {
+  border: solid 1px #cbcdce;
+  width: 124px;
+}
